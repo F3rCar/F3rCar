@@ -7,12 +7,12 @@ Tenho muito interesse por tecnologia e estou sempre aprendendo coisas novas,
 principalmente sobre APIs, banco de dados e boas práticas de desenvolvimento.
 
 ## 🛠️ Tecnologias
-- JavaScript
-- Node.js
-- Express
-- MySQL
-- MongoDB
-- Git
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📚 Atualmente estudando
 - Autenticação com JWT
@@ -33,6 +33,12 @@ principalmente sobre APIs, banco de dados e boas práticas de desenvolvimento.
 - Objetivo: ensinar sobre meio ambiente com atividades interativas e recompensas
 - Funcionalidades: cadastro/login, perfil do jogador, atividades educativas, álbum de figurinhas
 - Tecnologias: Kotlin, XML, Firebase (Auth, Firestore, Storage), Android Studio
+- Status: em desenvolvimento
+
+### LibrasProject
+- Projeto para reconhecer gestos de Libras, desde letras do alfabeto até palavras usadas em cultos, usando a webcam
+- Funciona capturando coordenadas das mãos com MediaPipe Hands para treinar modelos de IA
+- Tecnologias: Python, OpenCV, MediaPipe, NumPy, TensorFlow
 - Status: em desenvolvimento
 
 ## 🎯 Objetivo
