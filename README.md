@@ -34,14 +34,14 @@ principalmente sobre APIs, banco de dados e boas práticas de desenvolvimento.
 - Objetivo: ensinar sobre meio ambiente com atividades interativas e recompensas
 - Funcionalidades: cadastro/login, perfil do jogador, atividades educativas, álbum de figurinhas
 - Tecnologias: Kotlin, XML, Firebase (Auth, Firestore, Storage), Android Studio
-- Status: em desenvolvimento
+- Status: concluído
 - [GitHub](https://github.com/F3rCar/Marev)
 
 ### LibrasProject
 - Projeto para reconhecer gestos de Libras, desde letras do alfabeto até palavras usadas em cultos, usando a webcam
 - Funciona capturando coordenadas das mãos com MediaPipe Hands para treinar modelos de IA
 - Tecnologias: Python, OpenCV, MediaPipe, NumPy, TensorFlow
-- Status: em desenvolvimento
+- Status: concluído
 - [GitHub](https://github.com/F3rCar/LibrasProject)
 
 ## 🎯 Objetivo
