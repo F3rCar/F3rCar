@@ -29,6 +29,11 @@ principalmente sobre APIs, banco de dados e boas práticas de desenvolvimento.
 - Status: em desenvolvimento
 
 ### Marev
+- Aplicativo mobile educacional gamificado para crianças de 5 a 10 anos
+- Objetivo: ensinar sobre meio ambiente com atividades interativas e recompensas
+- Funcionalidades: cadastro/login, perfil do jogador, atividades educativas, álbum de figurinhas
+- Tecnologias: Kotlin, XML, Firebase (Auth, Firestore, Storage), Android Studio
+- Status: em desenvolvimento
 
 ## 🎯 Objetivo
 Me tornar um desenvolvedor back-end profissional
